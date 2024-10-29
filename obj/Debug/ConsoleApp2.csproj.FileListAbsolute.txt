@@ -9,3 +9,6 @@ C:\Users\Maximmmd\Desktop\Projects\ConsoleApp1\ComputerPractical4\obj\Debug\Cons
 C:\Users\Maximmmd\Desktop\Projects\ConsoleApp1\ComputerPractical4\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
 C:\Users\Maximmmd\Desktop\Projects\ConsoleApp1\ComputerPractical4\obj\Debug\ConsoleApp2.exe
 C:\Users\Maximmmd\Desktop\Projects\ConsoleApp1\ComputerPractical4\obj\Debug\ConsoleApp2.pdb
+C:\Users\Maximmmd\Desktop\Projects\ConsoleApp1\ComputerPractical4\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Maximmmd\Desktop\Projects\ConsoleApp1\ComputerPractical4\bin\Debug\ConsoleApp2.exe
+C:\Users\Maximmmd\Desktop\Projects\ConsoleApp1\ComputerPractical4\bin\Debug\ConsoleApp2.pdb

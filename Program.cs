@@ -35,7 +35,7 @@ namespace ConsoleApp2
             int leg1 = int.Parse(Console.ReadLine());
             Console.Write("leg2=");
             int leg2= int.Parse(Console.ReadLine());
-            Console.WriteLine($"hypotenuse={Math.sqrt(leg1*leg1+leg2*leg2)}");
+            Console.WriteLine($"hypotenuse={Math.Sqrt(leg1*leg1+leg2*leg2)}");
             Console.ReadLine();*/
 
             //task 4
