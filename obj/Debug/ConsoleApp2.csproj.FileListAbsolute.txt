@@ -5,3 +5,7 @@ C:\Users\Maximmmd\source\repos\ConsoleApp2\bin\Debug\ConsoleApp2.exe
 C:\Users\Maximmmd\source\repos\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
 C:\Users\Maximmmd\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.exe
 C:\Users\Maximmmd\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Maximmmd\Desktop\Projects\ConsoleApp1\ComputerPractical4\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\Maximmmd\Desktop\Projects\ConsoleApp1\ComputerPractical4\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Maximmmd\Desktop\Projects\ConsoleApp1\ComputerPractical4\obj\Debug\ConsoleApp2.exe
+C:\Users\Maximmmd\Desktop\Projects\ConsoleApp1\ComputerPractical4\obj\Debug\ConsoleApp2.pdb

@@ -24,7 +24,7 @@ namespace ConsoleApp2
 
             //Task 2
             /*Console.Write("side1=");
-            double sidel = double.Parse(Console.ReadLine());
+            double side1 = double.Parse(Console.ReadLine());
             Console.Write("side2=");
             double side2 = double.Parse(Console.ReadLine());
             Console.WriteLine($"P={(side1 + side2) * 2}");
@@ -32,7 +32,7 @@ namespace ConsoleApp2
 
             //Task 3
             /*Console.Write("leg1=");
-            int legl = int.Parse(Console.ReadLine());
+            int leg1 = int.Parse(Console.ReadLine());
             Console.Write("leg2=");
             int leg2= int.Parse(Console.ReadLine());
             Console.WriteLine($"hypotenuse={Math.sqrt(leg1*leg1+leg2*leg2)}");
